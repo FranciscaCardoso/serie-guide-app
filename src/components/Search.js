@@ -15,11 +15,6 @@ const Search = ({ getQuery }) => {
     }
   };
 
-  // const onChange = (q) => {
-  //   setSearch(q);
-  //   getQuery(q);
-  // };
-
   return (
     <div className="searching">
       <form>
